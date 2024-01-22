@@ -1,0 +1,106 @@
+body {
+ background-color: bisque;
+}
+img {position: absolute;
+    top: 75%;
+    left: 20%;
+    right: 20%;}
+
+div {
+
+    position: absolute;
+    top: 3%;
+    left: 40%;
+    right: 40%;
+    text-align: center;
+    
+}
+    
+p1 {
+    font-family:Helvetica;
+}
+
+h1{
+    width: 40%;
+    height: fit-content ;
+    position: absolute;
+    top: 5%;
+    left: 30%;
+    right: 30%;
+    text-align: center;
+    background-color: #f895e370 ;
+    color: black;
+    font-family: Cambria;
+    font-weight: 100;
+    font-size: 24px;
+}
+
+
+h2{padding: 1%;
+    width: fit-content;
+    height: 750px ;
+    position: absolute;
+    top: 8%;
+    left: 25%;
+    right: 25%;
+    text-align: center;
+    background-color: whitesmoke ;
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-weight: 100;
+    border: 1px solid black;
+    
+
+}
+
+
+ol {width: fit-content;
+    height: 750px ;
+    position: absolute;
+    top: 27%;
+    left: 35%;
+    right: 25%;
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-weight: 100;
+}
+
+h3 {width: fit-content;
+    height: 750px ;
+    position: absolute;
+    top: 37%;
+    left: 25%;
+    right: 25%;
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-weight: 100;}
+
+ul {width: fit-content;
+    height: 750px ;
+    position: absolute;
+    top: 46%;
+    left: 30%;
+    right: 25%;
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    color: #0616f5c9;
+    font-weight: 100;}
+
+    blockquote {width: fit-content;
+        height: fit-content ;
+        position: absolute;
+        top: 58%;
+        left: 25%;
+        right: 25%;
+        color: black;
+        background-color: #bdbbbbaf;
+        text-align: center;
+        font-family: 'Times New Roman';
+        font-size: 20px;
+        font-weight: 100}
+    
